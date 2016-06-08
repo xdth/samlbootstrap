@@ -1,5 +1,5 @@
 # samlbootstrap
-This simplesamlphp module implements a bootstrap theme
+This simplesamlphp module implements a bootstrap theme.
 
 # Installation
 
